@@ -8,8 +8,8 @@ For a deep dive into the methodology, proofs, and framework, please refer to the
 
 ## 🛠️ Experimental Setup & Solvers
 
-The scripts in this repository are optimized to run out-of-the-box in **Google Colab**, but they can also be executed in a local Python environment. 
-The codebase uses `Pyomo` (`Ipopt` and `Couenne`) and `SciPy` to model and solve optimization problems.
+The scripts in this repository are executed in **Google Colab**, but they can also be executed in a local Python environment. The codebase uses `Pyomo` (`Ipopt` and `Couenne`) and `SciPy` to model and solve optimization problems.
+
 ---
 
 ## 📊 Notebook Directory
